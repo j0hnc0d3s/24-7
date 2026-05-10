@@ -4,8 +4,8 @@ Autocare is a full-service automotive platform that empowers users to access a w
 
 The application delivers an optimised user experience through intuitive navigation, secure authentication flows, intelligent service booking systems, advanced search filtering, comprehensive profile management, and location-aware workshop discovery.
 
-## Demo: 
-![Demo Video](demo.mp4)
+## Demo
+https://github.com/user-attachments/assets/759e3cd7-d2cb-4a79-b224-70d61e4ccd52
 
 ## Screens: 
 ### 1. Authentication:
@@ -189,7 +189,7 @@ The application delivers an optimised user experience through intuitive navigati
 	   a. Navigate to your backend using 'cd backend', if you haven't already, and run the following functions: 
 	
 	      i. flask db init
-		
+
 	      ii. flask db migrate -m "Create tables"
 		
 	      iii. flask db upgrade
