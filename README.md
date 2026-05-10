@@ -1,4 +1,4 @@
-# 24-7 - Autocare
+# 24/7
 ## Description:
 Autocare is a full-service automotive platform that empowers users to access a wide range of vehicle services, including parts purchasing, vehicle rentals, mechanical repairs (battery, tires, oil changes), detailing services, and roadside recovery. 
 
